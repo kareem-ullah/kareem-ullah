@@ -15,7 +15,7 @@ Welcome to my GitHub profile!
 
 ## 📝 Connect with me:
 - [LinkedIn]https://www.linkedin.com/feed/
-[Portfolio]https:my-portfolio-web-khaki.vercel.app
+- [Portfolio]https://my-portfolio-web-khaki.vercel.app
 
 
 -[GitHub Stats]
