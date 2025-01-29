@@ -1,16 +1,28 @@
-## Hi there 👋
+## Kareem Ullah👋
 
-<!--
-**kareem-ullah/kareem-ullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies I Use:
+- HTML
+- CSS
+- JavaScript
+- React
+- Boostrap
+
+## 🌱 I'm currently learning:
+- Machine Learning at Saylani
+
+## 📝 Connect with me:
+- [LinkedIn]https://www.linkedin.com/feed/
+[Portfolio]https:my-portfolio-web-khaki.vercel.app
+
+
+-[GitHub Stats]
+
+
+## 🛠️ Some of my projects:
+- [Project 1] https:product-api-beryl-six.vercel.app
+- [Project 2] https:food-web-chi-pied.vercel.app
+- [Project 4] https:expense-tracker-ui-ruby.vercel.app
+
