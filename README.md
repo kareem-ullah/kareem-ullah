@@ -11,7 +11,7 @@ Welcome to my GitHub profile!
 - Boostrap
 
 ## 🌱 I'm currently learning:
-- Machine Learning at Saylani
+- Saylani Welfare IT Course
 
 ## 📝 Connect with me:
 - [LinkedIn]https://www.linkedin.com/feed/
