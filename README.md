@@ -1,4 +1,4 @@
-## Kareem Ullah👋
+## Hafiz Muhammad Kareem Ullah👋
 
 Welcome to my GitHub profile!
 
