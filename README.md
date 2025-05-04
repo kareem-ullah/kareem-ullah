@@ -9,6 +9,10 @@ Welcome to my GitHub profile!
 - JavaScript
 - React
 - Boostrap
+- Tailwind css
+- Backend: Node.js, Express.js
+- Database: MongoDB (Mongoose)
+- Tools & Platforms: Git, Postman, REST APIs
 
 ## 🌱 I'm currently learning:
 - Saylani Welfare IT Course
